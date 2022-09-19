@@ -12,7 +12,7 @@ h2 {
     color: #A52A2A;
 }
 header {
-    background: #FF6347;
+    background: #BC8F8F;
     color: #800000;
     border-bottom: 15px  outset #FFE4E1;
 }
@@ -40,10 +40,6 @@ header {
     text-align: center;
     background-color: #FFF8DC;
     max-width: 1000px;
-}
-.menu a {
-        color: #A52A2A;
-       
 }
 .linkedlist {
     text-align: left;
@@ -79,6 +75,6 @@ form {
 
 footer {
     font-size: 30px;
-    background-color:#FF6347;
+    background-color:#BC8F8F;
     color: #800000;
 }
